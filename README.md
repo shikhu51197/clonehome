@@ -74,7 +74,7 @@ This web application serves as a homepage designed as part of an assignment for 
 | 1 |  Chakra-ui |
 | 2 | React Router dom |
 | 3 | react-icons |
-| 4 chakraUi-icons||
+| 4 |chakraUi-icons||
 
 ---
 
