@@ -99,6 +99,13 @@ graph TD;
 
 ![photo_2023-10-08_00-19-29](https://github.com/shikhu51197/clonehome/assets/107506646/33cbd6e2-e16f-480c-8c33-f11b0aa6241f)
 
+![photo_2023-10-08_00-30-35](https://github.com/shikhu51197/clonehome/assets/107506646/0dfd23ce-d360-44ed-9fe8-52ec0dfbf311)
+![photo_2023-10-08_00-30-46](https://github.com/shikhu51197/clonehome/assets/107506646/e26037e7-d217-471f-8f0e-d39b47576a5f)
+![photo_2023-10-08_00-30-51](https://github.com/shikhu51197/clonehome/assets/107506646/30fca1cc-1e70-4bbc-9da5-a028795203da)
+
+
+
+
 ---
 
 <h1 align="center">✨Thank You✨</h1>
