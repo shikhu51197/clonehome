@@ -86,9 +86,19 @@ graph TD;
 
 
 ## ✨ Snapshot
-<br>
 
-<br>
+![photo_2023-10-08_00-18-49](https://github.com/shikhu51197/clonehome/assets/107506646/d8d79aab-9173-4adc-bf75-cef4582fbd7d)
+
+![photo_2023-10-08_00-19-03](https://github.com/shikhu51197/clonehome/assets/107506646/c87bc80e-bbd3-42ff-8ed1-e2ca589a58a0)
+
+![photo_2023-10-08_00-19-12](https://github.com/shikhu51197/clonehome/assets/107506646/eb2e4476-806f-44c1-8231-84903fadb49d)
+
+![photo_2023-10-08_00-19-18](https://github.com/shikhu51197/clonehome/assets/107506646/4f486ba4-b6d5-4ecc-98c0-230309230830)
+
+![photo_2023-10-08_00-19-23](https://github.com/shikhu51197/clonehome/assets/107506646/482c4ea8-3ef4-492d-85a6-ab2a33b2aa50)
+
+![photo_2023-10-08_00-19-29](https://github.com/shikhu51197/clonehome/assets/107506646/33cbd6e2-e16f-480c-8c33-f11b0aa6241f)
+
 ---
 
 <h1 align="center">✨Thank You✨</h1>
