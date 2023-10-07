@@ -51,10 +51,7 @@ This web application serves as a homepage designed as part of an assignment for 
 
 ✨Initialize the Application: To begin using the application, navigate to the frontend terminal and execute the command npm start. This will start the application locally, making it accessible through your web browser at port 3000.
 
-✨Home Page: Upon launching the application, users are greeted with the home page.
-
-
-
+✨Home Page: Upon launching the application, users are greeted with the home page with the best stayling  and responsiveness.
 
 
 ---
