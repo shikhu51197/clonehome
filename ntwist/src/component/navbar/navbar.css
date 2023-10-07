@@ -1,0 +1,112 @@
+/* Styles for .navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  padding: 30px;
+  color: white;
+  height: 40px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Styles for .navbar when scrolled */
+.scrolled {
+  background-color: white;
+}
+
+/* Styles for the navbar logo */
+.navbar-left img {
+  width: 150px;
+  height: auto;
+}
+
+/* Styles for the navbar menu */
+.navbar-right ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+}
+
+/* Styles for the navbar menu items */
+.navbar-right {
+  margin-right: 35px;
+}
+
+/* Styles for the navbar menu items */
+.navbar-left {
+  margin-left: 25px;
+}
+
+/* Styles for individual navbar menu items */
+.navbar-right li {
+  margin: 0 17px;
+}
+
+/* Styles for the navbar links */
+.navbar-right a {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  font-weight: 600;
+  font-style: normal;
+  position: relative;
+}
+
+/* Styles for the navbar links hover effect */
+.navbar-right a::after {
+  content: "";
+  width: 0;
+  height: 1px;
+  background: #004D99;
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  transition: width 0.5s; /* Adjusted transition property */
+}
+
+/* Styles for hiding dropdown on large screens */
+.no-dropdown:hover .dropdown-menu {
+  display: none;
+}
+
+/* Styles for the dropdown menu */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Styles for showing the dropdown when the parent list item is hovered */
+.no-dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Media Query for Responsive Design */
+@media (max-width: 768px) {
+  /* Styles for hiding non-dropdown items on small screens */
+  .nothide {
+    display: none;
+  }
+
+  /* Styles for showing hamburger menu on small screens */
+  .hide {
+    display: block;
+  }
+
+  /* Styles for centering the logo on small screens */
+  .navbar-left {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Styles for adjusting the logo margin on small screens */
+  .navbar-left img {
+    margin-bottom: 10px;
+  }
+}
